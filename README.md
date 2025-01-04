@@ -18,7 +18,7 @@ Este script permite que você baixe e reproduza músicas diretamente do YouTube 
 1. Clone este repositório para o seu sistema:
 
    ```bash
-   git clone https://github.com/seu-usuario/music-player-script.git
+   git clone https://github.com/ioricyber/music-player-script.git
 
 2. Navegue até a pasta do repositório:
 
@@ -66,7 +66,7 @@ Este projeto é licenciado sob a MIT License - consulte o arquivo LICENSE para m
    - Conecte seu repositório local ao repositório remoto:
 
      ```bash
-     git remote add origin https://github.com/seu-usuario/music-player-script.git
+     git remote add origin https://github.com/ioricyber/music-player-script.git
      ```
 
    - Suba os arquivos para o repositório remoto:

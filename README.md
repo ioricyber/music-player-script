@@ -22,11 +22,13 @@ Este script permite que você baixe e reproduza músicas diretamente do YouTube 
 
 2. Navegue até a pasta do repositório:
 
+```bash
 cd music-player-script
 
 
 3. Torne o script executável:
 
+```bash
 chmod +x music_player.sh
 
 

@@ -37,7 +37,7 @@ chmod +x music_player.sh
 ./music_player.sh
 
 
-5. Digite o link do YouTube quando solicitado para começar a reprodução da música.
+<h3>5. Digite o link do YouTube quando solicitado para começar a reprodução da música.</h3>
 
 
 

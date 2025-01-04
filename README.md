@@ -15,24 +15,24 @@ Este script permite que você baixe e reproduza músicas diretamente do YouTube 
 
 ## Como Usar:
 
-1. Clone este repositório para o seu sistema:
+<h3>1. Clone este repositório para o seu sistema:</h3>
 
-   ```bash
+   
    git clone https://github.com/ioricyber/music-player-script.git
 
-2. Navegue até a pasta do repositório:
+<h3>2. Navegue até a pasta do repositório:</h3>
 
-```bash
+
 cd music-player-script
 
 
-3. Torne o script executável:
+<h3>3. Torne o script executável:</h3>
 
-```bash
+
 chmod +x music_player.sh
 
 
-4. Execute o script:
+<h3>4. Execute o script:</h3>
 
 ./music_player.sh
 

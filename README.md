@@ -49,30 +49,3 @@ Licença:
 
 Este projeto é licenciado sob a MIT License - consulte o arquivo LICENSE para mais detalhes.
 
-### Instruções para subir o repositório no GitHub:
-
-1. **Crie o repositório no GitHub**:
-   - Acesse [GitHub](https://github.com) e crie um novo repositório. Dê um nome como `music-player-script`.
-   
-2. **Faça o commit do script e do README**:
-   - Inicialize o repositório localmente e adicione os arquivos:
-
-     ```bash
-     git init
-     git add music_player.sh README.md
-     git commit -m "Adiciona script de reprodução de música com animação e verificação de dependências"
-     ```
-
-3. **Suba para o GitHub**:
-
-   - Conecte seu repositório local ao repositório remoto:
-
-     ```bash
-     git remote add origin https://github.com/ioricyber/music-player-script.git
-     ```
-
-   - Suba os arquivos para o repositório remoto:
-
-     ```bash
-     git push -u origin master
-     ```
